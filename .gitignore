@@ -1,0 +1,9 @@
+.env
+env/
+*.pyc
+*.DS_Store
+*._*
+*bin
+*include
+*lib
+*share
